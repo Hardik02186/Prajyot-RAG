@@ -1,9 +1,0 @@
-{
-  "timestamp": "2026-07-19T07:41:41.372597Z",
-  "original_query": "who is IFAC and what is their role?",
-  "decomposed": false,
-  "complexity_level": 1,
-  "subqueries": [
-    "who is IFAC and what is their role?"
-  ]
-}
