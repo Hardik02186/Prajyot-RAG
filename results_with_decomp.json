@@ -1,0 +1,3037 @@
+{
+  "total_questions": 100,
+  "top_k": 20,
+  "decomposition_disabled": false,
+  "questions": [
+    {
+      "qa_id": "0",
+      "question": "Which magazine was started first Arthur's Magazine or First ...",
+      "supporting_docs": [
+        "Arthur's Magazine",
+        "First for Women"
+      ],
+      "doc_ranks": {
+        "Arthur's Magazine": 2,
+        "First for Women": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Arthur's Magazine",
+      "reference_answer": "Arthur's Magazine",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "1",
+      "question": "The Oberoi family is part of a hotel company that has a head...",
+      "supporting_docs": [
+        "Oberoi family",
+        "The Oberoi Group"
+      ],
+      "doc_ranks": {
+        "Oberoi family": 2,
+        "The Oberoi Group": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Delhi",
+      "reference_answer": "Delhi",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "2",
+      "question": "Musician and satirist Allie Goertz wrote a song about the \"T...",
+      "supporting_docs": [
+        "Allie Goertz",
+        "Milhouse Van Houten"
+      ],
+      "doc_ranks": {
+        "Allie Goertz": 0,
+        "Milhouse Van Houten": 0
+      },
+      "any_found": false,
+      "all_found": false,
+      "mrr": 0.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Richard Nixon (named after his middle name)",
+      "reference_answer": "President Richard Nixon",
+      "f1": 0.4,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "3",
+      "question": "What nationality was James Henry Miller's wife?",
+      "supporting_docs": [
+        "Peggy Seeger",
+        "Ewan MacColl"
+      ],
+      "doc_ranks": {
+        "Peggy Seeger": 0,
+        "Ewan MacColl": 3
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.16666666666666666,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "June Miller was born in the United States.",
+      "reference_answer": "American",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "4",
+      "question": "Cadmium Chloride is slightly soluble in this chemical, it is...",
+      "supporting_docs": [
+        "Cadmium chloride",
+        "Ethanol"
+      ],
+      "doc_ranks": {
+        "Cadmium chloride": 1,
+        "Ethanol": 4
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.625,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "CdCl\u20225HO",
+      "reference_answer": "alcohol",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "5",
+      "question": "Which tennis player won more Grand Slam titles, Henri Lecont...",
+      "supporting_docs": [
+        "Jonathan Stark (tennis)",
+        "Henri Leconte"
+      ],
+      "doc_ranks": {
+        "Jonathan Stark (tennis)": 1,
+        "Henri Leconte": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Steffi Graf",
+      "reference_answer": "Jonathan Stark",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "6",
+      "question": "Which genus of moth in the world's seventh-largest country c...",
+      "supporting_docs": [
+        "Indogrammodes",
+        "India"
+      ],
+      "doc_ranks": {
+        "Indogrammodes": 4,
+        "India": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.625,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Eutrapela",
+      "reference_answer": "Crambidae",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "7",
+      "question": "Who was once considered the best kick boxer in the world, ho...",
+      "supporting_docs": [
+        "Global Fighting Championship",
+        "Badr Hari"
+      ],
+      "doc_ranks": {
+        "Global Fighting Championship": 3,
+        "Badr Hari": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.41666666666666663,
+      "was_decomposed": true,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Badr Hari",
+      "reference_answer": "Badr Hari",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "8",
+      "question": "The Dutch-Belgian television series that \"House of Anubis\" w...",
+      "supporting_docs": [
+        "House of Anubis",
+        "Het Huis Anubis"
+      ],
+      "doc_ranks": {
+        "House of Anubis": 1,
+        "Het Huis Anubis": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Het Huis Anubis",
+      "reference_answer": "2006",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "9",
+      "question": "What is the length of the track where the 2013 Liqui Moly Ba...",
+      "supporting_docs": [
+        "2013 Liqui Moly Bathurst 12 Hour",
+        "Mount Panorama Circuit"
+      ],
+      "doc_ranks": {
+        "2013 Liqui Moly Bathurst 12 Hour": 0,
+        "Mount Panorama Circuit": 1
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.5,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "6.213 km",
+      "reference_answer": "6.213 km long",
+      "f1": 0.8571428571428571,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "10",
+      "question": "Fast Cars, Danger, Fire and Knives includes guest appearance...",
+      "supporting_docs": [
+        "Fast Cars, Danger, Fire and Knives",
+        "El-P"
+      ],
+      "doc_ranks": {
+        "Fast Cars, Danger, Fire and Knives": 1,
+        "El-P": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": true,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Jaime Meline (El-P)",
+      "reference_answer": "Jaime Meline",
+      "f1": 0.6666666666666666,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "11",
+      "question": "Gunmen from Laredo starred which narrator of \"Frontier\"?",
+      "supporting_docs": [
+        "Gunmen from Laredo",
+        "Walter Coy"
+      ],
+      "doc_ranks": {
+        "Gunmen from Laredo": 1,
+        "Walter Coy": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Walter Coy",
+      "reference_answer": "Walter Darwin Coy",
+      "f1": 0.8,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "12",
+      "question": "Where did the form of music played by Die Rh\u00f6ner S\u00e4uw\u00e4ntzt o...",
+      "supporting_docs": [
+        "Die Rh\u00f6ner S\u00e4uw\u00e4ntzt",
+        "Skiffle"
+      ],
+      "doc_ranks": {
+        "Die Rh\u00f6ner S\u00e4uw\u00e4ntzt": 1,
+        "Skiffle": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Eichenzell-L\u00fctter, Hessen, Germany",
+      "reference_answer": "United States",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "13",
+      "question": "In which American football game was Malcolm Smith named Most...",
+      "supporting_docs": [
+        "Malcolm Smith (American football)",
+        "Super Bowl XLVIII"
+      ],
+      "doc_ranks": {
+        "Malcolm Smith (American football)": 2,
+        "Super Bowl XLVIII": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Super Bowl XLVIII",
+      "reference_answer": "Super Bowl XLVIII",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "14",
+      "question": "What U.S Highway gives access to Zilpo Road, and is also kno...",
+      "supporting_docs": [
+        "Zilpo Road",
+        "Morehead, Kentucky"
+      ],
+      "doc_ranks": {
+        "Zilpo Road": 1,
+        "Morehead, Kentucky": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": true,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "US 60 (Midland Trail)",
+      "reference_answer": "US 60",
+      "f1": 0.6666666666666666,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "15",
+      "question": "The 1988 American comedy film, The Great Outdoors, starred a...",
+      "supporting_docs": [
+        "The Great Outdoors (film)",
+        "Annette Bening"
+      ],
+      "doc_ranks": {
+        "The Great Outdoors (film)": 1,
+        "Annette Bening": 4
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.625,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "2003",
+      "reference_answer": "2006",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "16",
+      "question": "What are the names of the current members of American heavy ...",
+      "supporting_docs": [
+        "Hurt Locker (musical)",
+        "Metallica"
+      ],
+      "doc_ranks": {
+        "Hurt Locker (musical)": 4,
+        "Metallica": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.375,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "I don't know (There is no direct mention of the current members of an American heavy metal band who wrote the music for \"Hurt Locker The Musical\" in the provided context.)",
+      "reference_answer": "Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo.",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "17",
+      "question": "Human Error\" is the season finale of the third season of a t...",
+      "supporting_docs": [
+        "Human Error (House)",
+        "House (TV series)"
+      ],
+      "doc_ranks": {
+        "Human Error (House)": 1,
+        "House (TV series)": 0
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.5,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "The WB Television Network",
+      "reference_answer": "Fox",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "18",
+      "question": "Dua Lipa, an English singer, songwriter and model, the album...",
+      "supporting_docs": [
+        "Dua Lipa",
+        "New Rules (song)"
+      ],
+      "doc_ranks": {
+        "Dua Lipa": 1,
+        "New Rules (song)": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "2017",
+      "reference_answer": "2017",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "19",
+      "question": "American politician Joe Heck ran unsuccessfully against Demo...",
+      "supporting_docs": [
+        "Joe Heck",
+        "Catherine Cortez Masto"
+      ],
+      "doc_ranks": {
+        "Joe Heck": 1,
+        "Catherine Cortez Masto": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Nevada",
+      "reference_answer": "Nevada",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "20",
+      "question": "Which state does the drug stores, of which the CEO is Warren...",
+      "supporting_docs": [
+        "Warren Bryant",
+        "Longs Drugs"
+      ],
+      "doc_ranks": {
+        "Warren Bryant": 1,
+        "Longs Drugs": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": true,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Hawaii",
+      "reference_answer": "Hawaii",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "21",
+      "question": "Which American politician did Donahue replaced",
+      "supporting_docs": [
+        "Sue Donahue",
+        "Kelli Ward"
+      ],
+      "doc_ranks": {
+        "Sue Donahue": 1,
+        "Kelli Ward": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Frank J. Donahue (in the context, it does not specify that he was replaced by Sue Donahue)",
+      "reference_answer": "Kelli Ward",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "22",
+      "question": "Which band was founded first, Hole, the rock band that Court...",
+      "supporting_docs": [
+        "Courtney Love",
+        "The Wolfhounds"
+      ],
+      "doc_ranks": {
+        "Courtney Love": 4,
+        "The Wolfhounds": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.375,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "The Wolfhounds",
+      "reference_answer": "The Wolfhounds",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "23",
+      "question": "How old is the female main protagonist of Catching Fire?",
+      "supporting_docs": [
+        "Catching Fire",
+        "The Hunger Games (novel)"
+      ],
+      "doc_ranks": {
+        "Catching Fire": 1,
+        "The Hunger Games (novel)": 0
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.5,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "The context does not provide information on the age of the female main protagonist.",
+      "reference_answer": "16-year-old",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "24",
+      "question": "Chang Ucchin was born in korea during a time that ended with...",
+      "supporting_docs": [
+        "Chang Ucchin",
+        "Korea under Japanese rule"
+      ],
+      "doc_ranks": {
+        "Chang Ucchin": 1,
+        "Korea under Japanese rule": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "World War II",
+      "reference_answer": "World War II",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "25",
+      "question": "Who is the director of the 2003 film which has scenes in it ...",
+      "supporting_docs": [
+        "Quality Cafe (diner)",
+        "Old School (film)"
+      ],
+      "doc_ranks": {
+        "Quality Cafe (diner)": 1,
+        "Old School (film)": 0
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.5,
+      "was_decomposed": true,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Quentin Tarantino",
+      "reference_answer": "Todd Phillips",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "26",
+      "question": "New Faces of 1952 is a musical revue with songs and comedy s...",
+      "supporting_docs": [
+        "New Faces of 1952",
+        "Carol Lawrence"
+      ],
+      "doc_ranks": {
+        "New Faces of 1952": 1,
+        "Carol Lawrence": 0
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.5,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Eartha Kitt",
+      "reference_answer": "Carol Lawrence",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "27",
+      "question": "Were Pavel Urysohn and Leonid Levin known for the same type ...",
+      "supporting_docs": [
+        "Pavel Urysohn",
+        "Leonid Levin"
+      ],
+      "doc_ranks": {
+        "Pavel Urysohn": 1,
+        "Leonid Levin": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Yes (both are mathematicians)",
+      "reference_answer": "no",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "28",
+      "question": "Are both The New Pornographers and Kings of Leon American ro...",
+      "supporting_docs": [
+        "The New Pornographers",
+        "Kings of Leon"
+      ],
+      "doc_ranks": {
+        "The New Pornographers": 1,
+        "Kings of Leon": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "No, The New Pornographers is a Canadian indie rock band.",
+      "reference_answer": "no",
+      "f1": 0.18181818181818182,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "29",
+      "question": "750 7th Avenue and 101 Park Avenue, are located in which cit...",
+      "supporting_docs": [
+        "750 7th Avenue",
+        "101 Park Avenue"
+      ],
+      "doc_ranks": {
+        "750 7th Avenue": 1,
+        "101 Park Avenue": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "New York City",
+      "reference_answer": "New York City",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "30",
+      "question": "Which actress played the part of fictitious character Kimber...",
+      "supporting_docs": [
+        "Kimberly Hart",
+        "Power Rangers"
+      ],
+      "doc_ranks": {
+        "Kimberly Hart": 1,
+        "Power Rangers": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Amy Jo Johnson",
+      "reference_answer": "Amy Jo Johnson",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "31",
+      "question": "Who was born first, Pablo Trapero or Aleksander Ford?",
+      "supporting_docs": [
+        "Pablo Trapero",
+        "Aleksander Ford"
+      ],
+      "doc_ranks": {
+        "Pablo Trapero": 2,
+        "Aleksander Ford": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Aleksander Ford",
+      "reference_answer": "Aleksander Ford",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "32",
+      "question": "Are Jane and First for Women both women's magazines?",
+      "supporting_docs": [
+        "Jane (magazine)",
+        "First for Women"
+      ],
+      "doc_ranks": {
+        "Jane (magazine)": 1,
+        "First for Women": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Yes",
+      "reference_answer": "yes",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "33",
+      "question": "What profession does Nicholas Ray and Elia Kazan have in com...",
+      "supporting_docs": [
+        "Nicholas Ray",
+        "Elia Kazan"
+      ],
+      "doc_ranks": {
+        "Nicholas Ray": 1,
+        "Elia Kazan": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Film director",
+      "reference_answer": "director",
+      "f1": 0.6666666666666666,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "34",
+      "question": "Where is the company that purchased Aixam based in?",
+      "supporting_docs": [
+        "Aixam",
+        "Polaris Industries"
+      ],
+      "doc_ranks": {
+        "Aixam": 1,
+        "Polaris Industries": 0
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.5,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Roseau, Minnesota, USA",
+      "reference_answer": "Roseau, Minnesota, USA",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "35",
+      "question": "Which documentary is about Finnish rock groups, Adam Clayton...",
+      "supporting_docs": [
+        "Adam Clayton Powell (film)",
+        "The Saimaa Gesture"
+      ],
+      "doc_ranks": {
+        "Adam Clayton Powell (film)": 3,
+        "The Saimaa Gesture": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.41666666666666663,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "The Saimaa Gesture is not mentioned in the provided context. Therefore, I don't know which documentary is about Finnish rock groups.",
+      "reference_answer": "The Saimaa Gesture",
+      "f1": 0.24000000000000002,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "36",
+      "question": "Who was inducted into the Rock and Roll Hall of Fame, David ...",
+      "supporting_docs": [
+        "Cia Berg",
+        "David Lee Roth"
+      ],
+      "doc_ranks": {
+        "Cia Berg": 2,
+        "David Lee Roth": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "David Lee Roth",
+      "reference_answer": "David Lee Roth",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "37",
+      "question": "Zimbabwe's Guwe Secondary School has a sister school in what...",
+      "supporting_docs": [
+        "Guwe Secondary School",
+        "Carle Place High School"
+      ],
+      "doc_ranks": {
+        "Guwe Secondary School": 1,
+        "Carle Place High School": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Carle Place",
+      "reference_answer": "Nassau County",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "38",
+      "question": "The Royal Commission into Drug Trafficking (1977\u20131979) or Wo...",
+      "supporting_docs": [
+        "Royal Commission into Drug Trafficking",
+        "Honoured Society (Australia)"
+      ],
+      "doc_ranks": {
+        "Royal Commission into Drug Trafficking": 4,
+        "Honoured Society (Australia)": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.625,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Australia",
+      "reference_answer": "Australia",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "39",
+      "question": "The 337th Flight Test Squadron (337 FLTS) was most recently ...",
+      "supporting_docs": [
+        "337th Flight Test Squadron",
+        "McClellan Air Force Base"
+      ],
+      "doc_ranks": {
+        "337th Flight Test Squadron": 1,
+        "McClellan Air Force Base": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "California",
+      "reference_answer": "California",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "40",
+      "question": "The axial turbojet Pirna 014 was designed by engineers from ...",
+      "supporting_docs": [
+        "Pirna 014",
+        "Junkers"
+      ],
+      "doc_ranks": {
+        "Pirna 014": 1,
+        "Junkers": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Dessau",
+      "reference_answer": "Dessau",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "41",
+      "question": "Which faith is designated to the University of Providence, p...",
+      "supporting_docs": [
+        "University of Providence",
+        "Great Falls, Montana"
+      ],
+      "doc_ranks": {
+        "University of Providence": 1,
+        "Great Falls, Montana": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Roman Catholic",
+      "reference_answer": "Roman Catholic",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "42",
+      "question": "Pauline Henry was known as the vocalist of a very popular co...",
+      "supporting_docs": [
+        "Pauline Henry",
+        "I Still Haven't Found What I'm Looking For"
+      ],
+      "doc_ranks": {
+        "Pauline Henry": 1,
+        "I Still Haven't Found What I'm Looking For": 0
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.5,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "The Chimes (album)",
+      "reference_answer": "The Joshua Tree",
+      "f1": 0.3333333333333333,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "43",
+      "question": "Guitars for Wounded Warriors is an album that was recorded i...",
+      "supporting_docs": [
+        "Guitars for Wounded Warriors",
+        "New Paltz (village), New York"
+      ],
+      "doc_ranks": {
+        "Guitars for Wounded Warriors": 1,
+        "New Paltz (village), New York": 0
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.5,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "The question does not specify the name of a county, so it cannot be determined from the provided context.",
+      "reference_answer": "Ulster County",
+      "f1": 0.09523809523809525,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "44",
+      "question": "What American country music singer-songwriter, born in May o...",
+      "supporting_docs": [
+        "The Battle (George Jones song)",
+        "Tammy\nWynette"
+      ],
+      "doc_ranks": {
+        "The Battle (George Jones song)": 1,
+        "Tammy\nWynette": 0
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.5,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Tammy Wynette",
+      "reference_answer": "Tammy Wynette",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "45",
+      "question": "Who was born first, Francis Nethersole or Elizabeth Stuart?",
+      "supporting_docs": [
+        "Francis Nethersole",
+        "Elizabeth Stuart, Queen of Bohemia"
+      ],
+      "doc_ranks": {
+        "Francis Nethersole": 1,
+        "Elizabeth Stuart, Queen of Bohemia": 3
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.6666666666666666,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Francis Nethersole",
+      "reference_answer": "Sir Francis Nethersole",
+      "f1": 0.8,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "46",
+      "question": "What does the Hacker-Pschorr Brewery have to limit in order ...",
+      "supporting_docs": [
+        "Hacker-Pschorr Brewery",
+        "Reinheitsgebot"
+      ],
+      "doc_ranks": {
+        "Hacker-Pschorr Brewery": 1,
+        "Reinheitsgebot": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "The Hacker-Pschorr Brewery has to limit its ingredients in order to comply with German regulations.",
+      "reference_answer": "ingredients in beer",
+      "f1": 0.21052631578947367,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "47",
+      "question": "Don Barry Mason was the founder of the Psychedelic Shamanist...",
+      "supporting_docs": [
+        "Don Barry Mason",
+        "Howard Marks"
+      ],
+      "doc_ranks": {
+        "Don Barry Mason": 1,
+        "Howard Marks": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": true,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "I don't know (The context provided does not contain information about a member named Don Barry Mason who is Welsh and died on April 10th 2016.)",
+      "reference_answer": "Dennis Howard Marks",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "48",
+      "question": "What male actor starred in The Messenger?",
+      "supporting_docs": [
+        "The Messenger (2015 horror film)",
+        "Robert Sheehan"
+      ],
+      "doc_ranks": {
+        "The Messenger (2015 horror film)": 1,
+        "Robert Sheehan": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Robert Sheehan",
+      "reference_answer": "Robert Sheehan",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "49",
+      "question": "Are Gin and tonic and Paloma both cocktails based on tequila...",
+      "supporting_docs": [
+        "Gin and tonic",
+        "Paloma (cocktail)"
+      ],
+      "doc_ranks": {
+        "Gin and tonic": 2,
+        "Paloma (cocktail)": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "No",
+      "reference_answer": "no",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "50",
+      "question": "Who is older Glenn Hughes or Ross Lynch?",
+      "supporting_docs": [
+        "Glenn Hughes",
+        "Ross Lynch"
+      ],
+      "doc_ranks": {
+        "Glenn Hughes": 1,
+        "Ross Lynch": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Glenn Hughes",
+      "reference_answer": "Glenn Hughes",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "51",
+      "question": "In what year was the creator of the current arrangement of t...",
+      "supporting_docs": [
+        "The Simpsons Theme",
+        "Alf Clausen"
+      ],
+      "doc_ranks": {
+        "The Simpsons Theme": 1,
+        "Alf Clausen": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "1941 (year)",
+      "reference_answer": "March 28, 1941",
+      "f1": 0.4,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "52",
+      "question": "The Southern Railway runs from Vienna to Graz and the border...",
+      "supporting_docs": [
+        "Southern Railway (Austria)",
+        "Semmering railway"
+      ],
+      "doc_ranks": {
+        "Southern Railway (Austria)": 2,
+        "Semmering railway": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "STANDARD GAUGE TRACK",
+      "reference_answer": "standard gauge track",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "53",
+      "question": "In what show did Cynthia Nixon receive the 2004 Primetime Em...",
+      "supporting_docs": [
+        "Miranda Hobbes",
+        "Cynthia Nixon"
+      ],
+      "doc_ranks": {
+        "Miranda Hobbes": 1,
+        "Cynthia Nixon": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": true,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Sex and the City",
+      "reference_answer": "Sex and the City",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "54",
+      "question": "Lee Jun-fan played what character in \"The Green Hornet\" tele...",
+      "supporting_docs": [
+        "Kato (The Green Hornet)",
+        "Bruce Lee"
+      ],
+      "doc_ranks": {
+        "Kato (The Green Hornet)": 3,
+        "Bruce Lee": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.6666666666666666,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Kato",
+      "reference_answer": "Kato",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "55",
+      "question": "The 1895/96 Football League season was the eighth in Footbal...",
+      "supporting_docs": [
+        "1895\u201396 Everton F.C. season",
+        "Goodison Park"
+      ],
+      "doc_ranks": {
+        "1895\u201396 Everton F.C. season": 3,
+        "Goodison Park": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.6666666666666666,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "England",
+      "reference_answer": "England",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "56",
+      "question": "A Head Full of Dreams Tour is the seventh tour by Coldplay, ...",
+      "supporting_docs": [
+        "A Head Full of Dreams Tour",
+        "Estadio Ciudad\nde La Plata"
+      ],
+      "doc_ranks": {
+        "A Head Full of Dreams Tour": 2,
+        "Estadio Ciudad\nde La Plata": 0
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.25,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Estadio \u00danico is owned by the Province of Buenos Aires.",
+      "reference_answer": "Province of Buenos Aires",
+      "f1": 0.5714285714285715,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "57",
+      "question": "Roger Avary (born August 23, 1965) is a Canadian film and te...",
+      "supporting_docs": [
+        "Roger Avary",
+        "Beowulf (2007 film)"
+      ],
+      "doc_ranks": {
+        "Roger Avary": 1,
+        "Beowulf (2007 film)": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Robert Zemeckis",
+      "reference_answer": "Robert Zemeckis",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "58",
+      "question": "The American Pre-Code comedy film featuring an American actr...",
+      "supporting_docs": [
+        "Hat Check Girl",
+        "Ginger Rogers"
+      ],
+      "doc_ranks": {
+        "Hat Check Girl": 1,
+        "Ginger Rogers": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "1932 (Hat Check Girl)",
+      "reference_answer": "1932",
+      "f1": 0.4,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "59",
+      "question": "An edited version of \"Just the Two of Us\" reached number two...",
+      "supporting_docs": [
+        "Just the Two of Us (Grover Washington Jr. song)",
+        "Just the Two of Us (Grover\nWashington Jr. song)",
+        "Bette Davis Eyes"
+      ],
+      "doc_ranks": {
+        "Just the Two of Us (Grover Washington Jr. song)": 0,
+        "Just the Two of Us (Grover\nWashington Jr. song)": 0,
+        "Bette Davis Eyes": 1
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.3333333333333333,
+      "was_decomposed": true,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "9",
+      "reference_answer": "nine",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "60",
+      "question": "Which band has more members, Saint Motel or Curve?",
+      "supporting_docs": [
+        "Saint Motel",
+        "Curve (band)"
+      ],
+      "doc_ranks": {
+        "Saint Motel": 2,
+        "Curve (band)": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Curve (5 members)",
+      "reference_answer": "Saint Motel",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "61",
+      "question": "\"Funnybot\" is the second episode of the fifteenth season of ...",
+      "supporting_docs": [
+        "Funnybot",
+        "South Park (season 10)"
+      ],
+      "doc_ranks": {
+        "Funnybot": 1,
+        "South Park (season 10)": 3
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.6666666666666666,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "South Park",
+      "reference_answer": "South Park",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "62",
+      "question": "Which private research university is located in Chestnut Hil...",
+      "supporting_docs": [
+        "Boston College",
+        "Stanford University"
+      ],
+      "doc_ranks": {
+        "Boston College": 1,
+        "Stanford University": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Boston College",
+      "reference_answer": "Boston College",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "63",
+      "question": "What American stage, film, and television actor who also app...",
+      "supporting_docs": [
+        "Samson and Delilah (1984 film)",
+        "Victor Mature"
+      ],
+      "doc_ranks": {
+        "Samson and Delilah (1984 film)": 1,
+        "Victor Mature": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Victor Mature",
+      "reference_answer": "Victor John Mature",
+      "f1": 0.8,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "64",
+      "question": "Iqaluit Airport and Canadian North are based out of what cou...",
+      "supporting_docs": [
+        "Iqaluit Airport",
+        "Canadian North"
+      ],
+      "doc_ranks": {
+        "Iqaluit Airport": 1,
+        "Canadian North": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Canada",
+      "reference_answer": "Canada",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "65",
+      "question": "In what political party was the man who officially opened he...",
+      "supporting_docs": [
+        "Royal Spa Centre",
+        "Anthony Eden"
+      ],
+      "doc_ranks": {
+        "Royal Spa Centre": 1,
+        "Anthony Eden": 4
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.625,
+      "was_decomposed": true,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Conservative Party",
+      "reference_answer": "Conservative",
+      "f1": 0.6666666666666666,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "66",
+      "question": "Which Oscar-nominated film was written by the screenwriter w...",
+      "supporting_docs": [
+        "Sooni Taraporevala",
+        "Mississippi Masala"
+      ],
+      "doc_ranks": {
+        "Sooni Taraporevala": 1,
+        "Mississippi Masala": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": true,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Salaam Bombay (1988)",
+      "reference_answer": "Salaam Bombay",
+      "f1": 0.8,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "67",
+      "question": "Are both Tim McIlrath and Spike Slawson American punk rock m...",
+      "supporting_docs": [
+        "Tim McIlrath",
+        "Spike Slawson"
+      ],
+      "doc_ranks": {
+        "Tim McIlrath": 2,
+        "Spike Slawson": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Yes",
+      "reference_answer": "yes",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "68",
+      "question": "The Golden Globe Award winner for best actor from \"Roseanne\"...",
+      "supporting_docs": [
+        "Gigantic (2008 film)",
+        "John Goodman"
+      ],
+      "doc_ranks": {
+        "Gigantic (2008 film)": 2,
+        "John Goodman": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Zooey Deschanel",
+      "reference_answer": "Zooey Deschanel",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "69",
+      "question": "The expert mentor to the celebrities that perform on \"Splash...",
+      "supporting_docs": [
+        "Splash! (UK TV series)",
+        "Tom Daley"
+      ],
+      "doc_ranks": {
+        "Splash! (UK TV series)": 1,
+        "Tom Daley": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "15",
+      "reference_answer": "15",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "70",
+      "question": "Still Da Baddest is the fourth studio album by American rapp...",
+      "supporting_docs": [
+        "Still da Baddest",
+        "Keyshia Cole"
+      ],
+      "doc_ranks": {
+        "Still da Baddest": 4,
+        "Keyshia Cole": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.625,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Keyshia Cole",
+      "reference_answer": "Keyshia Cole",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "71",
+      "question": "What profession does Am Rong and Alexandre Rockwell have in ...",
+      "supporting_docs": [
+        "Am Rong",
+        "Alexandre Rockwell"
+      ],
+      "doc_ranks": {
+        "Am Rong": 1,
+        "Alexandre Rockwell": 3
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.6666666666666666,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Filmmaker",
+      "reference_answer": "filmmaker",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "72",
+      "question": "El Nuevo Cojo and Golf Magazine are both special interest pu...",
+      "supporting_docs": [
+        "El Nuevo Cojo",
+        "Golf Magazine"
+      ],
+      "doc_ranks": {
+        "El Nuevo Cojo": 2,
+        "Golf Magazine": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Golf Magazine",
+      "reference_answer": "Golf Magazine",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "73",
+      "question": "Who funds the bowling team that includes the school bus driv...",
+      "supporting_docs": [
+        "Team Homer",
+        "Otto Mann"
+      ],
+      "doc_ranks": {
+        "Team Homer": 4,
+        "Otto Mann": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.625,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Mr. Burns",
+      "reference_answer": "Mr. Burns",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "74",
+      "question": "What city are George Washington University Hospital and MedS...",
+      "supporting_docs": [
+        "George Washington University Hospital",
+        "MedStar Washington Hospital\nCenter"
+      ],
+      "doc_ranks": {
+        "George Washington University Hospital": 3,
+        "MedStar Washington Hospital\nCenter": 0
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.16666666666666666,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Washington, D.C.",
+      "reference_answer": "Washington, D.C.",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "75",
+      "question": "what is the connection between Peter O'Meara and Norman Dike...",
+      "supporting_docs": [
+        "Peter O'Meara",
+        "Norman Dike"
+      ],
+      "doc_ranks": {
+        "Peter O'Meara": 3,
+        "Norman Dike": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.6666666666666666,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "I don't know (There's no direct connection mentioned between Peter O'Meara and Norman Dike in the provided context)",
+      "reference_answer": "Band of Brothers",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "76",
+      "question": "What author has contributed to such works as \"New Statesmen\"...",
+      "supporting_docs": [
+        "Dysteleology",
+        "Christopher Hitchens"
+      ],
+      "doc_ranks": {
+        "Dysteleology": 1,
+        "Christopher Hitchens": 3
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.6666666666666666,
+      "was_decomposed": true,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "The author is associated with Dysteleology and has contributed to \"New Statesman\", \"The Nation\", and \"The Atlantic\". The exact name of the author is not specified in the provided context.",
+      "reference_answer": "Christopher Hitchens",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "77",
+      "question": "Who developed the prototype pacemaker used by the 34th Presi...",
+      "supporting_docs": [
+        "R Adams Cowley",
+        "Dwight D. Eisenhower"
+      ],
+      "doc_ranks": {
+        "R Adams Cowley": 0,
+        "Dwight D. Eisenhower": 1
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.5,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "David Eisenhower developed the prototype pacemaker used by the 34th President of the USA.",
+      "reference_answer": "R Adams Cowley",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "78",
+      "question": "Which publishing company has published Bizarre and a sister ...",
+      "supporting_docs": [
+        "Bizarre (magazine)",
+        "Fortean Times"
+      ],
+      "doc_ranks": {
+        "Bizarre (magazine)": 4,
+        "Fortean Times": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.625,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Dennis Publishing Ltd",
+      "reference_answer": "Dennis Publishing",
+      "f1": 0.8,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "79",
+      "question": "Who performed the lead single on the album Friends in Low Pl...",
+      "supporting_docs": [
+        "Friends in Low Places",
+        "No Fences"
+      ],
+      "doc_ranks": {
+        "Friends in Low Places": 1,
+        "No Fences": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Garth Brooks",
+      "reference_answer": "Garth Brooks",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "80",
+      "question": "Hate to Feel is the tenth track on what Alice in Chains' alb...",
+      "supporting_docs": [
+        "Hate to Feel",
+        "Dirt (Alice in Chains album)"
+      ],
+      "doc_ranks": {
+        "Hate to Feel": 1,
+        "Dirt (Alice in Chains album)": 0
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.5,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Dirt",
+      "reference_answer": "Dirt",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "81",
+      "question": "The lead singer and guitarist in the Portland, Oregon rock b...",
+      "supporting_docs": [
+        "Portugal. The Man",
+        "John Gourley"
+      ],
+      "doc_ranks": {
+        "Portugal. The Man": 1,
+        "John Gourley": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Red Mouth",
+      "reference_answer": "The Fantastic The",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "82",
+      "question": "What year was the winner of the 2016 Marrakesh ePrix born?",
+      "supporting_docs": [
+        "2016 Marrakesh ePrix",
+        "S\u00e9bastien Buemi"
+      ],
+      "doc_ranks": {
+        "2016 Marrakesh ePrix": 1,
+        "S\u00e9bastien Buemi": 3
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.6666666666666666,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "1988",
+      "reference_answer": "1988",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "83",
+      "question": "South Korean actor Kim Yool-ho starred in what 2016 movie di...",
+      "supporting_docs": [
+        "Kim Yool-ho",
+        "Train to Busan"
+      ],
+      "doc_ranks": {
+        "Kim Yool-ho": 1,
+        "Train to Busan": 3
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.6666666666666666,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Train to Busan",
+      "reference_answer": "Train to Busan",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "84",
+      "question": "According to the 2006 census what is the population of the c...",
+      "supporting_docs": [
+        "Uche James-Iroha",
+        "Enugu"
+      ],
+      "doc_ranks": {
+        "Uche James-Iroha": 1,
+        "Enugu": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": true,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "387,192",
+      "reference_answer": "722,664",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "85",
+      "question": "What actor in the film D.C. Cab also had a role in the TV se...",
+      "supporting_docs": [
+        "D.C. Cab",
+        "Max Gail"
+      ],
+      "doc_ranks": {
+        "D.C. Cab": 1,
+        "Max Gail": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Max Gail",
+      "reference_answer": "Max Gail",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "86",
+      "question": "Which industry do Richard Hawley and Chicago's Catherine bel...",
+      "supporting_docs": [
+        "Catherine (alternative rock band)",
+        "Richard Hawley"
+      ],
+      "doc_ranks": {
+        "Catherine (alternative rock band)": 2,
+        "Richard Hawley": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Music Industry",
+      "reference_answer": "rock band",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "87",
+      "question": "Are Pam Veasey and Jon Jost both American?",
+      "supporting_docs": [
+        "Pam Veasey",
+        "Jon Jost"
+      ],
+      "doc_ranks": {
+        "Pam Veasey": 1,
+        "Jon Jost": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Yes",
+      "reference_answer": "yes",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "88",
+      "question": "Maurice Hines and his brother were famous for what?",
+      "supporting_docs": [
+        "Hot Feet",
+        "Maurice Hines"
+      ],
+      "doc_ranks": {
+        "Hot Feet": 3,
+        "Maurice Hines": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.6666666666666666,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Maurice Hines (born December 13, 1943)",
+      "reference_answer": "dancer Gregory Hines",
+      "f1": 0.2222222222222222,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "89",
+      "question": "Are the New Orleans Outfall Canals the same length as the Au...",
+      "supporting_docs": [
+        "Augusta Canal",
+        "New Orleans Outfall Canals"
+      ],
+      "doc_ranks": {
+        "Augusta Canal": 1,
+        "New Orleans Outfall Canals": 3
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.6666666666666666,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "No",
+      "reference_answer": "yes",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "90",
+      "question": "In which stadium do the teams owned by Myra Kraft's husband ...",
+      "supporting_docs": [
+        "Myra Kraft",
+        "Robert Kraft"
+      ],
+      "doc_ranks": {
+        "Myra Kraft": 1,
+        "Robert Kraft": 0
+      },
+      "any_found": true,
+      "all_found": false,
+      "mrr": 0.5,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Gillette Stadium",
+      "reference_answer": "Gillette Stadium",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "91",
+      "question": "What southern California based band covered Blue \u00d6yster Cult...",
+      "supporting_docs": [
+        "Godzilla (song)",
+        "Fu Manchu (band)"
+      ],
+      "doc_ranks": {
+        "Godzilla (song)": 3,
+        "Fu Manchu (band)": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.6666666666666666,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Fu Manchu",
+      "reference_answer": "Fu Manchu",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "92",
+      "question": "The Swedish-British entertainment studio executive and film ...",
+      "supporting_docs": [
+        "Zygi Kamasa",
+        "London Has Fallen"
+      ],
+      "doc_ranks": {
+        "Zygi Kamasa": 1,
+        "London Has Fallen": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 1.0,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Zygi Kamasa",
+      "reference_answer": "CEO of Lionsgate UK & Europe",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "93",
+      "question": "an Emmy Award winner and two-time Tony Award winner, was on ...",
+      "supporting_docs": [
+        "Chuck Versus the Role Models",
+        "Swoosie Kurtz"
+      ],
+      "doc_ranks": {
+        "Chuck Versus the Role Models": 2,
+        "Swoosie Kurtz": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Swoosie Kurtz",
+      "reference_answer": "Swoosie Kurtz",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "94",
+      "question": "What is the current name of the Atlanta Mansion built for th...",
+      "supporting_docs": [
+        "Rainbow Terrace",
+        "Asa Griggs Candler"
+      ],
+      "doc_ranks": {
+        "Rainbow Terrace": 3,
+        "Asa Griggs Candler": 2
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.41666666666666663,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Lullwater Estate",
+      "reference_answer": "Lullwater Estate",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "95",
+      "question": "Who invented the type of script used in autographs?",
+      "supporting_docs": [
+        "Autograph (Assyriology)",
+        "Cuneiform script"
+      ],
+      "doc_ranks": {
+        "Autograph (Assyriology)": 2,
+        "Cuneiform script": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Sumerians",
+      "reference_answer": "the Sumerians",
+      "f1": 0.6666666666666666,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "96",
+      "question": "Approximately what percentage of the global population is ma...",
+      "supporting_docs": [
+        "Princess Fragrant",
+        "Han Chinese"
+      ],
+      "doc_ranks": {
+        "Princess Fragrant": 1,
+        "Han Chinese": 3
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.6666666666666666,
+      "was_decomposed": true,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "17%",
+      "reference_answer": "17%",
+      "f1": 1.0,
+      "exact_match": 1
+    },
+    {
+      "qa_id": "97",
+      "question": "The Boren-McCurdy proposals were partially brought about by ...",
+      "supporting_docs": [
+        "Boren-McCurdy proposals",
+        "David L. Boren"
+      ],
+      "doc_ranks": {
+        "Boren-McCurdy proposals": 1,
+        "David L. Boren": 4
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.625,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "David Boren",
+      "reference_answer": "David Lyle Boren",
+      "f1": 0.8,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "98",
+      "question": "The Thoen Stone is on display at a museum in what county?",
+      "supporting_docs": [
+        "Thoen Stone",
+        "Deadwood, South Dakota"
+      ],
+      "doc_ranks": {
+        "Thoen Stone": 2,
+        "Deadwood, South Dakota": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.75,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "Deadwood, South Dakota",
+      "reference_answer": "Lawrence County",
+      "f1": 0.0,
+      "exact_match": 0
+    },
+    {
+      "qa_id": "99",
+      "question": "Is Children's National Medical Center or MedStar Washington ...",
+      "supporting_docs": [
+        "Children's National Medical Center",
+        "MedStar Washington Hospital Center"
+      ],
+      "doc_ranks": {
+        "Children's National Medical Center": 3,
+        "MedStar Washington Hospital Center": 1
+      },
+      "any_found": true,
+      "all_found": true,
+      "mrr": 0.6666666666666666,
+      "was_decomposed": false,
+      "retrieved_sources": [
+        "contexts.pdf",
+        "contexts.pdf",
+        "contexts.pdf"
+      ],
+      "predicted_answer": "MedStar Washington Hospital Center",
+      "reference_answer": "MedStar Washington Hospital Center",
+      "f1": 1.0,
+      "exact_match": 1
+    }
+  ],
+  "mrr_scores": [
+    0.75,
+    0.75,
+    0.0,
+    0.16666666666666666,
+    0.625,
+    0.75,
+    0.625,
+    0.41666666666666663,
+    1.0,
+    0.5,
+    0.75,
+    1.0,
+    1.0,
+    0.75,
+    1.0,
+    0.625,
+    0.375,
+    0.5,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.375,
+    0.5,
+    0.75,
+    0.5,
+    0.5,
+    1.0,
+    0.75,
+    0.75,
+    1.0,
+    0.75,
+    0.75,
+    1.0,
+    0.5,
+    0.41666666666666663,
+    0.75,
+    1.0,
+    0.625,
+    1.0,
+    1.0,
+    1.0,
+    0.5,
+    0.5,
+    0.5,
+    0.6666666666666666,
+    1.0,
+    0.75,
+    1.0,
+    0.75,
+    0.75,
+    0.75,
+    0.75,
+    1.0,
+    0.6666666666666666,
+    0.6666666666666666,
+    0.25,
+    1.0,
+    1.0,
+    0.3333333333333333,
+    0.75,
+    0.6666666666666666,
+    0.75,
+    1.0,
+    1.0,
+    0.625,
+    1.0,
+    0.75,
+    0.75,
+    1.0,
+    0.625,
+    0.6666666666666666,
+    0.75,
+    0.625,
+    0.16666666666666666,
+    0.6666666666666666,
+    0.6666666666666666,
+    0.5,
+    0.625,
+    1.0,
+    0.5,
+    1.0,
+    0.6666666666666666,
+    0.6666666666666666,
+    1.0,
+    1.0,
+    0.75,
+    1.0,
+    0.6666666666666666,
+    0.6666666666666666,
+    0.5,
+    0.6666666666666666,
+    1.0,
+    0.75,
+    0.41666666666666663,
+    0.75,
+    0.6666666666666666,
+    0.625,
+    0.75,
+    0.6666666666666666
+  ],
+  "any_hit_accuracies": [
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "full_coverage_accuracies": [
+    1,
+    1,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    0,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "f1_scores": [
+    1.0,
+    1.0,
+    0.4,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    0.0,
+    0.8571428571428571,
+    0.6666666666666666,
+    0.8,
+    0.0,
+    1.0,
+    0.6666666666666666,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    1.0,
+    1.0,
+    0.0,
+    1.0,
+    0.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.18181818181818182,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.6666666666666666,
+    1.0,
+    0.24000000000000002,
+    1.0,
+    0.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.3333333333333333,
+    0.09523809523809525,
+    1.0,
+    0.8,
+    0.21052631578947367,
+    0.0,
+    1.0,
+    1.0,
+    1.0,
+    0.4,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.5714285714285715,
+    1.0,
+    0.4,
+    0.0,
+    0.0,
+    1.0,
+    1.0,
+    0.8,
+    1.0,
+    0.6666666666666666,
+    0.8,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.8,
+    1.0,
+    1.0,
+    0.0,
+    1.0,
+    1.0,
+    0.0,
+    1.0,
+    0.0,
+    1.0,
+    0.2222222222222222,
+    0.0,
+    1.0,
+    1.0,
+    0.0,
+    1.0,
+    1.0,
+    0.6666666666666666,
+    1.0,
+    0.8,
+    0.0,
+    1.0
+  ],
+  "exact_match_scores": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1
+  ],
+  "average_mrr": 0.72625,
+  "average_any_hit_accuracy": 0.99,
+  "any_hit_accuracy_percentage": 99.0,
+  "average_full_coverage_accuracy": 0.83,
+  "full_coverage_accuracy_percentage": 83.0,
+  "average_f1": 0.6304504291030607,
+  "overall_exact_match": 0.51,
+  "overall_exact_match_percentage": 51.0,
+  "summary": {
+    "mrr": 0.72625,
+    "retrieval_accuracy": 0.99,
+    "retrieval_accuracy_percentage": 99.0,
+    "full_coverage_retrieval_accuracy": 0.83,
+    "full_coverage_retrieval_accuracy_percentage": 83.0,
+    "f1": 0.6304504291030607,
+    "exact_match": 0.51,
+    "exact_match_percentage": 51.0
+  }
+}

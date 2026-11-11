@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+requests
+pymupdf
+pdf2image
+pillow
+faiss-cpu; platform_system == "Windows"
+faiss-gpu-cu12; platform_system != "Windows"
+numpy
+langchain
+langchain_community
+langchain-ollama
+langchain-core
+sentence-transformers
+torch
+streamlit
+rank-bm25

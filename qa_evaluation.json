@@ -1,0 +1,11 @@
+{
+  "mode": "rag",
+  "qa_dir": "/home/visdomlab/Desktop/rag_project 2/output/qa",
+  "num_files": 0,
+  "num_questions": 0,
+  "threshold": 0.5,
+  "total_time_seconds": 0.01,
+  "average_f1": 0.0,
+  "accuracy": 0.0,
+  "files": []
+}
